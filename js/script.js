@@ -209,7 +209,7 @@ var o = $('#camera');
                 navigation: true,
                 navigationHover: false,
                 mobileNavHover: false,
-                fx: 'simpleFade'
+                fx: 'topLeftBottomRight'
             })
         });
     }
