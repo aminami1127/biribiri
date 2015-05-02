@@ -25,7 +25,7 @@ h2 {
   font-size: 62px;
   line-height: 82px;
   font-weight: 300;
-  color: #ebd842;
+  color: #000000;
 }
 @media (max-width: 767px) {
   h2 {
@@ -302,7 +302,7 @@ a[href^="tel:"] {
   font-size: 60px;
   line-height: 75px;
   color: #fff;
-  background: #ebd842;
+  background: #adabad;
   text-align: center;
 }
 .toggle-menu-container .sf-menu-toggle:hover {
@@ -326,7 +326,7 @@ a[href^="tel:"] {
 }
 .toggle-menu-container .sf-menu > li.active > a {
   color: #ffffff;
-  background: #ebd842;
+  background: #adabad;
 }
 .toggle-menu-container .sf-menu > li.sfHover > a,
 .toggle-menu-container .sf-menu > li a:hover {
@@ -536,7 +536,7 @@ a[href^="tel:"] {
                      HEADER  Section
 =========================================================*/
 header {
-  background: #ebd842;
+  background: #adabad;
 }
 header .brand {
   float: left;
@@ -867,7 +867,7 @@ main {
                      FOOTER  Styles
 =========================================================*/
 footer {
-  background: #ebd842;
+  background: #adabad;
   padding: 78px 0 0 0;
   text-align: center;
 }
@@ -947,8 +947,8 @@ footer .tm {
   margin-top: 20px;
 }
 .bg-1 {
-  background: #a95858;
-  color: #ffffff;
+  background: #adabad;
+  color: #000000;
 }
 .bg-1 h2 {
   color: #ffffff;
