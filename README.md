@@ -1,4 +1,4 @@
-biribiri (my new friend's casual bar) home page based on free HTML5 temprate.
+biribiri (casual bar) home page based on free HTML5 temprate.
 
 ShopInfo:
  Address: 
