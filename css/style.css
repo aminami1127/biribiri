@@ -49,6 +49,14 @@ h2 em {
     line-height: 56px;
   }
 }
+.xsmall {
+  font-size:20px;
+  line-height: 40px;
+}
+.small {
+  font-size:40px;
+  font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
